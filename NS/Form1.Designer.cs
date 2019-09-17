@@ -492,7 +492,7 @@
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(829, 262);
+            this.button7.Location = new System.Drawing.Point(876, 262);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(120, 53);
             this.button7.TabIndex = 39;
@@ -644,7 +644,7 @@
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(829, 321);
+            this.button9.Location = new System.Drawing.Point(876, 321);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(120, 53);
             this.button9.TabIndex = 55;
@@ -654,9 +654,9 @@
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(458, 203);
+            this.progressBar1.Location = new System.Drawing.Point(446, 197);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(538, 41);
+            this.progressBar1.Size = new System.Drawing.Size(550, 35);
             this.progressBar1.TabIndex = 56;
             // 
             // Form1
